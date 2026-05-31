@@ -1,3 +1,5 @@
+> **Note:** This project was originally developed in 2020-2020 and migrated from a previous GitHub account ([@AjayShekar01](https://github.com/AjayShekar01)) due to account access issues.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
